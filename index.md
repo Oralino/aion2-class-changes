@@ -96,19 +96,19 @@ body,.main-content{background:#0d1117;color:#c9d1d9}
 
 | Skill | Change |
 |---|---|
-| Combo Strike, Heavy Strike, Power Strike (연격, 중격, 강격) | Spec 4 "On hit, [Ascending Strike] cooldown −2s" becomes "Skill crit +30%". |
-| Smite Ground (지면강타) | Added: on hit, gain the "Fighting Spirit"† (투기) buff for 2s.<br>While Fighting Spirit lasts, [Ascending Strike] and [Burst Fist] gain PVE damage +150% and PVP damage +50%.<br>When cast consecutively, [Smite Ground] can no longer cancel [Smite Ground]. |
+| Flurry, Heavy Strike, Power Strike (연격, 중격, 강격) | Spec 4 "On hit, [Ascending Blow] cooldown −2s" becomes "Skill crit +30%". |
+| Ground Smash (지면강타) | Added: on hit, gain the "Fighting Spirit"† (투기) buff for 2s.<br>While Fighting Spirit lasts, [Ascending Blow] and [Exploding Fist] gain PVE damage +150% and PVP damage +50%.<br>When cast consecutively, [Ground Smash] can no longer cancel [Ground Smash]. |
 | Chain Fist (연환권) | PVE damage −25%. |
-| Burst Fist (폭렬권) | While Fighting Spirit lasts, PVE damage +150% and PVP damage +50%.<br>Spec 5 "Delayed damage after 3s" becomes "+50% damage to targets immune to incapacitation". |
-| Ascending Strike (승천타) | Skill range becomes 4m, and it becomes a mobile skill. The dash effect is removed.<br>Cooldown 30s → 10s.<br>PVE damage −36%; while Fighting Spirit lasts, PVE damage +150% and PVP damage +50%.<br>Spec 1 "Range +10m" becomes "Range +16m and becomes a dash skill".<br>Spec 2 "Guaranteed crit on hit" becomes "Skill crit +20%". |
+| Exploding Fist (폭렬권) | While Fighting Spirit lasts, PVE damage +150% and PVP damage +50%.<br>Spec 5 "Delayed damage after 3s" becomes "+50% damage to targets immune to incapacitation". |
+| Ascending Blow (승천타) | Skill range becomes 4m, and it becomes a mobile skill. The dash effect is removed.<br>Cooldown 30s → 10s.<br>PVE damage −36%; while Fighting Spirit lasts, PVE damage +150% and PVP damage +50%.<br>Spec 1 "Range +10m" becomes "Range +16m and becomes a dash skill".<br>Spec 2 "Guaranteed crit on hit" becomes "Skill crit +20%". |
 | Rampage (폭주) | Cooldown 10s → 15s.<br>Spec 5 "All skill cooldowns −10% while active" becomes "Fighting Spirit for 2s on cast". |
-| Shoulder Charge (철산고) | Added: on hit, gain Fighting Spirit for 2s. |
-| Gale Strike (질풍격) | Fixed an issue where the status-resistance reduction from Spec 2 was not removed by healing potions. |
-| Focused Block (집중 막기) | Block duration 2s → 1s.<br>Cooldown 20s → 10s.<br>Cooldown reduction on successful block changed from 0.1s to 0.15s.<br>Spec 3 "On block, move speed +20% for 3s" becomes "On block, reset [Burst Fist] and [Ascending Strike] cooldowns".<br>Spec 4 HP recovered on block lowered from 10% to 5% of max HP.<br>Spec 5 "Block duration +1s" becomes "+1 consecutive cast". |
+| Shoulder Tackle (철산고) | Added: on hit, gain Fighting Spirit for 2s. |
+| Whirlwind (질풍격) | Fixed an issue where the status-resistance reduction from Spec 2 was not removed by healing potions. |
+| Focused Block (집중 막기) | Block duration 2s → 1s.<br>Cooldown 20s → 10s.<br>Cooldown reduction on successful block changed from 0.1s to 0.15s.<br>Spec 3 "On block, move speed +20% for 3s" becomes "On block, reset [Exploding Fist] and [Ascending Blow] cooldowns".<br>Spec 4 HP recovered on block lowered from 10% to 5% of max HP.<br>Spec 5 "Block duration +1s" becomes "+1 consecutive cast". |
 | Full Force (전력) | Cooldown 90s → 60s.<br>Added: on hit, restore up to 50% rage depending on the rage spent.<br>Skill speed +30%, PVE damage +10%. |
-| Clone (분신) | PVE damage −25%. |
-| Bloodflow Block (혈류 차단) | The reduction to healing received and potion recovery now applies from the first hit. |
-| Zone Summon (영역 소환) | Casting is no longer affected by attack speed. |
+| Phantom (분신) | PVE damage −25%. |
+| Sever Bloodstream (혈류 차단) | The reduction to healing received and potion recovery now applies from the first hit. |
+| Time Bomb (영역 소환) | Casting is no longer affected by attack speed. |
 
 ## Chanter (호법성) {#chanter}
 
@@ -189,4 +189,4 @@ body,.main-content{background:#0d1117;color:#c9d1d9}
 | Healing Enhancement (치유력 강화) | Attack-scaled healing amp bonus 22.4% → 15.4%. |
 
 ---
-*Translated from the Korean original. Skill names follow the global client (via [The Games Wiki](https://thegameswiki.com/aion-2/wiki/classes)); the descriptions are my translation, so check the Korean text if exact wording matters.*
+*Translated from the Korean original. Skill names follow the global client (via [The Games Wiki](https://thegameswiki.com/aion-2/wiki/classes)), and Brawler names follow the KR/TW client's English data (via [Questlog](https://questlog.gg/aion-2/en-nc/db/skills/fighter)); the descriptions are my translation, so check the Korean text if exact wording matters.*
