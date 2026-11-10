@@ -4,11 +4,20 @@ Unofficial fan translation of the **클래스 변경사항 (Class Changes)** sec
 
 <style>
 html{scroll-behavior:smooth}
-.class-nav{position:sticky;top:0;z-index:10;display:flex;flex-wrap:wrap;gap:6px;padding:10px;margin:0 0 1.5rem;background:#fff;border-bottom:1px solid #ddd}
-.class-nav a{padding:5px 12px;border:1px solid #159957;border-radius:16px;font-size:.9rem;text-decoration:none;color:#159957;background:#fff}
-.class-nav a:hover{background:#159957;color:#fff}
+.class-nav{position:sticky;top:0;z-index:10;display:flex;flex-wrap:wrap;gap:6px;padding:10px;margin:0 0 1.5rem;background:#0d1117;border-bottom:1px solid #30363d}
+.class-nav a{padding:5px 12px;border:1px solid #3fb77a;border-radius:16px;font-size:.9rem;text-decoration:none;color:#3fb77a;background:#161b22}
+.class-nav a:hover{background:#3fb77a;color:#0d1117}
 h2{scroll-margin-top:80px}
 td{vertical-align:top}
+body,.main-content{background:#0d1117;color:#c9d1d9}
+.page-header{background:#0d1117;background-image:linear-gradient(120deg,#0b3d2a,#0d1117)}
+.main-content h1,.main-content h2,.main-content h3{color:#3fb77a}
+.main-content a{color:#58a6ff}
+.main-content table{background:#161b22}
+.main-content table th{background:#21262d;color:#e6edf3}
+.main-content table th,.main-content table td{border-color:#30363d;color:#c9d1d9}
+.main-content hr{background:#30363d}
+.main-content strong{color:#e6edf3}
 </style>
 <nav class="class-nav">
 <a href="#common">Common</a>
