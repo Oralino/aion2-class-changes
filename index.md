@@ -66,7 +66,7 @@ body,.main-content{background:#0d1117;color:#c9d1d9}
 | Shield Smite (방패 강타) | Base cooldown 10s → 7s.<br>Spec 4 "Cooldown −2s" becomes "Stun chance +20%". |
 | Judgment (심판) | PVE damage −10%.<br>Base cooldown 5s → 3s.<br>Base effect: now usable up to 3 times in a row.<br>Spec 3 "Extra damage on hit" becomes "Extra damage when [Judgment] is used consecutively" (20–200% depending on consecutive uses).<br>Spec 4 "Guaranteed crit" becomes "Skill crit +30%".<br>Spec 5 "Cooldown removed" becomes "+2 consecutive casts; on 5 consecutive casts, grants Judgment's Might† for 10s".<br>*Judgment's Might: attack +20%, frontal damage amp +10%. |
 | Warding Strike (비호의 일격) | Base cooldown 30s → 45s.<br>Base effect "Activates [Judgment] for 2s on use" removed. |
-| Shield Charge (방패 돌격) | Base effect "Activates [Judgment] for 2s on use" removed. |
+| Shield Rush (방패 돌격) | Base effect "Activates [Judgment] for 2s on use" removed. |
 | Punishment (징벌) | PVE damage −30%.<br>Base effect added: "+50% damage while in the Judgment's Might state". |
 | Fury (격앙) | Level 1 PVE/PVP damage amp increase 5.5%/2.75% → 0.5%/0.25%. |
 | Shield of Protection (보호의 방패) | Spec 3 "On block, move speed +20% for 3s" becomes "On block, attack +10% for 10s". |
@@ -182,7 +182,7 @@ body,.main-content{background:#0d1117;color:#c9d1d9}
 | Bolt (벽력) | PVE damage +20%. |
 | Condemnation (단죄) | Previously activated on targets under [Chain of Torment]; now activates for 2s after using [Debilitating Mark] and 3s after using [Chain of Torment].<br>Spec 4 "On crit hit, reset [Condemnation] cooldown" becomes "Skill crit +300".<br>Spec 5 "Guaranteed multi-hit on hit" becomes "Cooldown removed".<br>PVE damage +15%. PVP damage −15%. |
 | Debilitating Mark (약화의 낙인) | Skill animation is 30% faster. |
-| Noble Energy (고결한 기운) | PVE damage +10%. |
+| Noble Aura (고결한 기운) | PVE damage +10%. |
 | Empyrean Lord's Grace (주신의 은총) | PVE damage +50%. |
 | Earth Punishment (대지의 징벌) | Spec 1 "[Condemnation] hits targets under [Earth Punishment] as a guaranteed crit" becomes "[Earth Punishment] DoT interval −50%". |
 | Salvation (구원) | Spec 1 "Healing received +100%" → "+20%". |
