@@ -45,10 +45,10 @@ body,.main-content{background:#0d1117;color:#c9d1d9}
 | Keen Strike, Rupture Strike, Wrathful Strike, Reckless Strike (예리한 일격, 파열의 일격, 분노의 일격, 무모한 일격) | PVE damage +30%. |
 | Rending Blow, Smashing Blow (절단의 맹타, 격파의 맹타) | PVE damage +20%. |
 | Ruinous Blow (파멸의 맹타) | Base damage +50%.<br>Base effect: on hit, grants self the "Frenzy"† (광분) state for 7s, and the "Prepare for Battle" (전투 준비) effect is removed.<br>*Frenzy: PVE damage amp 20%, PVP damage amp 10%, frontal damage amp 3%, enables Overhead Slam, max 2 stacks.<br>Spec 3 "Skill crit +30%" becomes "+1 consecutive cast" (charge time 40s / 20s).<br>When cast consecutively, [Ruinous Blow] can no longer cancel [Ruinous Blow]. |
-| Leaping Slam (도약 찍기) | Spec 1 "Prepare for Battle on self for 3s" becomes "Shock-type resistance −20% for 5s". |
+| Leaping Slam (도약 찍기) | Spec 1 "Prepare for Battle on self for 3s" becomes "Impact-type resistance −20% for 5s". |
 | Mocking Blade (유린의 검) | Base effect: on hit, grants self "Frenzy" for 5s. |
 | Rush Strike (돌진 일격) | PVE damage +100%.<br>Base effect: on hit, grants self "Frenzy" for 5s. |
-| Overhead Slam, Upward Strike (내려찍기, 올려치기) | Base damage about −50%.<br>Base cooldown removed.<br>Activation condition: "Activates on targets immune to incapacitation, 7%" removed; "Activates while holding Frenzy" added.<br>Spec 4 "Guaranteed crit" becomes "Skill crit +30%".<br>Spec 5 "Cooldown removed" becomes "Extra damage 250% at 2+ Frenzy stacks". |
+| Overhead Slam, Upward Strike (내려찍기, 올려치기) | Base damage about −50%.<br>Base cooldown removed.<br>Activation condition: "7% chance to activate against targets with Incapacitated Immunity" removed; "Activates while holding Frenzy" added.<br>Spec 4 "Guaranteed crit" becomes "Skill crit +30%".<br>Spec 5 "Cooldown removed" becomes "Extra damage 250% at 2+ Frenzy stacks". |
 | Lunge Stance (돌격 자세) | Spec 4 changes from "While active, crits have a 50% chance to reduce all skill cooldowns by 1s" to "…reduce [Lunge Stance] cooldown by 1s". |
 | Zikel's Blessing (지켈의 축복) | Cooldown 2 min → 1 min. |
 | Focused Block (집중 막기) | Spec 3 "On block, move speed +20% for 3s" becomes "On block, grants self Frenzy for 3s".<br>Spec 5 "Duration +1s" becomes "+1 consecutive cast". |
@@ -80,7 +80,7 @@ body,.main-content{background:#0d1117;color:#c9d1d9}
 | Savage Roar, Savage Back Kick, Savage Smash (맹수의 포효, 맹수의 뒷발차기, 맹수의 후려치기) | The base "apply Insignia" effect of Roar and Back Kick is removed.<br>Savage Smash's base effect changes from "apply 1 Insignia" to "75% chance to gain 1 Insignia, 25% chance to gain 2". |
 | Insignia (문양) | Insignia duration 10s → 15s.<br>Insignia changes from a debuff to a buff.<br>It now works as the user gaining Insignia, rather than applying them to the target.<br>Insignia Explosion consumes the Insignia on yourself and applies effects based on the count. |
 | Ambush (기습) | Animation wind-up improved by 20%.<br>Base effect added: can move while using the skill.<br>Spec 1 "On rear hit, imprint 2 Insignia for 10s" becomes "On use, resets [Heart Gore] cooldown". |
-| Heart Gore (심장 찌르기) | Base effect added: "+70% damage while in Bloodlust† (살의)".<br>Spec 2 "On hit, imprint 1 Insignia for 10s" becomes "+20% damage on rear attacks".<br>Spec 3 "Up to +20% crit the fewer targets hit" becomes "Guaranteed crit against shock-type targets".<br>Spec 5 "On crit, reset [Heart Gore] cooldown" becomes "+2 consecutive casts". |
+| Heart Gore (심장 찌르기) | Base effect added: "+70% damage while in Bloodlust† (살의)".<br>Spec 2 "On hit, imprint 1 Insignia for 10s" becomes "+20% damage on rear attacks".<br>Spec 3 "Up to +20% crit the fewer targets hit" becomes "Guaranteed crit against targets under an Impact-type status".<br>Spec 5 "On crit, reset [Heart Gore] cooldown" becomes "+2 consecutive casts". |
 | Shadow Fall (그림자 낙하) | Spec 2 "On hit, apply 3 Insignia" becomes "Range +10m". |
 | Insignia Explosion (문양 폭발) | Base effect added: "Consuming 5 Insignia at once grants Bloodlust for 5s".<br>Mental cost 200 → 100.<br>Bloodlust: Perfect +5%.<br>Base cooldown 10s → 5s.<br>PVE damage by Insignia count: 1 Insignia 112% → 110%, 2 Insignia 124% → 140%, 3 Insignia 136% → 190%, 4 Insignia 148% → 260%, 5 Insignia 160% → 500%.<br>Spec 3 "Keep 2 Insignia after [Insignia Explosion]" becomes "Bloodlust's Perfect bonus +5% more".<br>Spec 5 "Cooldown −3s" becomes "Consuming 5 Insignia at once resets [Ambush] cooldown". |
 | Exploit Weakness (빈틈 노리기) | Base effect "apply Insignia" removed. |
@@ -99,7 +99,7 @@ body,.main-content{background:#0d1117;color:#c9d1d9}
 | Flurry, Heavy Strike, Power Strike (연격, 중격, 강격) | Spec 4 "On hit, [Ascending Blow] cooldown −2s" becomes "Skill crit +30%". |
 | Ground Smash (지면강타) | Added: on hit, gain the "Fighting Spirit"† (투기) buff for 2s.<br>While Fighting Spirit lasts, [Ascending Blow] and [Exploding Fist] gain PVE damage +150% and PVP damage +50%.<br>When cast consecutively, [Ground Smash] can no longer cancel [Ground Smash]. |
 | Chain Fist (연환권) | PVE damage −25%. |
-| Exploding Fist (폭렬권) | While Fighting Spirit lasts, PVE damage +150% and PVP damage +50%.<br>Spec 5 "Delayed damage after 3s" becomes "+50% damage to targets immune to incapacitation". |
+| Exploding Fist (폭렬권) | While Fighting Spirit lasts, PVE damage +150% and PVP damage +50%.<br>Spec 5 "Delayed damage after 3s" becomes "+50% damage to targets with Incapacitated Immunity". |
 | Ascending Blow (승천타) | Skill range becomes 4m, and it becomes a mobile skill. The dash effect is removed.<br>Cooldown 30s → 10s.<br>PVE damage −36%; while Fighting Spirit lasts, PVE damage +150% and PVP damage +50%.<br>Spec 1 "Range +10m" becomes "Range +16m and becomes a dash skill".<br>Spec 2 "Guaranteed crit on hit" becomes "Skill crit +20%". |
 | Rampage (폭주) | Cooldown 10s → 15s.<br>Spec 5 "All skill cooldowns −10% while active" becomes "Fighting Spirit for 2s on cast". |
 | Shoulder Tackle (철산고) | Added: on hit, gain Fighting Spirit for 2s. |
